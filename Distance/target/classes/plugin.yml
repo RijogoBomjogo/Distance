@@ -1,0 +1,9 @@
+name: Distance
+version: 1.0-SNAPSHOT
+main: tr.donsuzturk.distance.Main
+api-version: 1.17
+authors: [ DonsuzTurk ]
+description: Aynı dünyadaki oyuncularla aranızdaki mesafeyi görmenizi sağlar.
+commands:
+  distance:
+  aliases: [uzaklik]
